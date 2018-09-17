@@ -1,0 +1,8 @@
+.header-pokedex{
+    position: absolute;
+    top: 20px;
+    font-size: 20px;
+}
+.header-pokedex h1, p{
+    text-align: center;
+}
